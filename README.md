@@ -1,4 +1,5 @@
 # Attention‼️
+- For this script to run, the v2ray service must be installed on your system.
 - Requires root access to run.
 
 # Installation:
